@@ -11,7 +11,7 @@ order: 4
 
 
 ><span style="font-size:20px; color:Black; font-weight:bold;">2020.4 - 2023.5</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:20px;">[Nagoya University](https://www.agr.nagoya-u.ac.jp/)</span>
-, <span style="font-size:20px;">Nagoya, Japan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="color:Black;font-size:20px; font-weight:bold;">Phd (Agriculture)</span>
+, <span style="font-size:20px;">Nagoya, Japan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="color:Black;font-size:20px; font-weight:bold;">PhD (Agriculture)</span>
 
 ><span style="font-size:20px; color:Black; font-weight:bold;">2018.4 - 2020.3</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:20px;">[Nagoya University](https://www.agr.nagoya-u.ac.jp/)</span>
 , <span style="font-size:20px;"> Nagoya, Japan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="color:Black;font-size:20px; font-weight:bold;">Master Degree (Agriculture)</span> 
