@@ -25,4 +25,4 @@ order: 4
 , <span style="font-size:20px;">Nagoya, Japan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="color:Black;font-size:20px; font-weight:bold;">Reseracher</span>
 
 ## <span style="font-size:24px; color:Green; font-weight:bold;">Research experience</span>
-In the past, my research focused on enhancing plants' tolerance to abiotic stresses, particularly waterlogging and flooding. Currently, I am working on improving agronomic traits for breeding and increasing plants' tolerance to abiotic stresses, with a focus on saline-alkali conditions.
+In the past, my research focused on enhancing plants' tolerance to abiotic stresses, particularly waterlogging and flooding. Currently, I am working on improving agronomic traits for breeding and increasing plants' tolerance to abiotic stresses, with a focus on saline-alkali conditions. 
