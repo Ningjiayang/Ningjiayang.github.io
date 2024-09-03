@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> I am Yushow and Lu biezi's fathers, I love singing, dancing and RAP
+> After leaving the university, I continued working as a scientist in agriculture. Although my work is no longer focused on academic research, I will share my experiences and new findings from my work
 {: .prompt-tip }
 
 <span style="font-size:24px; color:Green; font-weight:bold;">Education</span>
