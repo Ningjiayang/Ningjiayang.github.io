@@ -1,6 +1,5 @@
 ---
 title: Toothpick inoculation method for maize stem rot
-description: A method of toothpick inoculation.
 author: <Jiayang>
 date: 2024-09-03 23:30:00 +0900
 categories: [Blogging, Experiment methods]
