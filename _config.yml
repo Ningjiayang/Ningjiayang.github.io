@@ -81,7 +81,9 @@ avatar: "/image/ico/ico.jpg"
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: true
+comments: 
+ provider: # [disqus | utterances | giscus]
+  # The provider options are as follows:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
@@ -146,7 +148,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: true
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
