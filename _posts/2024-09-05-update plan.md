@@ -12,7 +12,8 @@ I will update my work experience and new finding in first half of 2024. Hope I c
   - [x] [Toothpick inoculation method for maize stem rot](https://ningjiayang.com/posts/Toothpick-inoculation-method/)
   - [x] [Using R to remove the outliers(Tukey’s IQR)](https://ningjiayang.com/posts/Using-R-to-remove-the-outlier/)
   - [ ] Batch Analysis and Visualization of Field Data Using R
-  - [ ] Experience share：BSA Mut-Mapping Approach for the Identification of Recessive Gene-Associated Traits
+  - [ ] Experience share：BSA Mut-Mapping Approach for the Identification of Recessive Gene-Associated Traits 
+  - [ ] Considerations in the Breeding of High Saline-alkali soybean
   - [ ] Considerations in the Breeding of Dwarf Corn Varieties
 
 
@@ -22,7 +23,7 @@ I will update my work experience and new finding in first half of 2024. Hope I c
   - [x] [つまようじ接種法ートウモロコシ茎腐れ病](https://ningjiayang.com/posts/Toothpick-inoculation-method/)
   - [x] [Rを用いて外れ値の除去(Tukey’s IQR法)](https://ningjiayang.com/posts/Using-R-to-remove-the-outlier/)
   - [ ] Rによる田間データのバッチ分析と可視化
-  - [ ] 経験共有：劣性遺伝子関連形質の同定のためのBSA Mut-Mappingアプローチ
+  - [ ] 経験共有：BSA Mut-Mapping法による劣性遺伝子関連形質の同定
   - [ ] 矮性トウモロコシの育種に関する考察
+  - [ ] 塩·アルカリ耐性ダイズの育種に関する考察
 
- [Nagoya University](https://www.agr.nagoya-u.ac.jp/)
