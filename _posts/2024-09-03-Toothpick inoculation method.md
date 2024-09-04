@@ -4,7 +4,7 @@ author: <Jiayang>
 date: 2024-09-03 23:30:00 +0900
 categories: [Blogging, Experiment methods]
 tags: [Experiment methods, Plant Disease, Maize, 実験方法, 植物病害, トウモロコシ]
-pin: true
+pin: False
 
 ---
 ## English
@@ -15,7 +15,7 @@ Stem rot is a destructive disease that affects the cultivation of corn (maize) a
 
 ![Desktop View](/image/post/post14.JPG){: width="400" height="500"}
 
-I don't have a background in plant diseases. I learned this method from a colleague and documented it to enhance my understanding.
+Therefore, inoculate specific fungi to induce maize stem rot is important for breeding disease resistant varieties. I don't have a background in plant diseases. I learned this method from a colleague and documented it to enhance my understanding.
 
 ### Methods
 ![Desktop View](/image/post/post4.JPG){: width="200" height="300" .w-5 .left}![Desktop View](/image/post/post5.JPG){: width="200" height="300" .w-5 .right}
@@ -39,7 +39,7 @@ Place the autoclaved toothpick into the medium containing fungi and incubate. **
 
 ![Desktop View](/image/post/post14.JPG){: width="400" height="500"}
 
-私は植物病理の専門知識を持ってない。この方法は同僚から学び、知識を深めるために記録する。
+そのため、特定の真菌を接種してトウモロコシ茎腐れ病を誘導することは抗病品種の育成に非常に重要である。私は植物病理の専門知識を持ってない。この接種方法は同僚から学び、知識を深めるために記録する。
 
 ### 方法
 

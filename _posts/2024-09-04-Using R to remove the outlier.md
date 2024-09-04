@@ -4,7 +4,7 @@ author: <Jiayang>
 date: 2024-09-04 22:30:00 +0900
 categories: [Blogging, Experiment methods]
 tags: [Experiment methods, data science, R, 実験方法, データ　サイエンス]
-pin: true
+pin: False
 
 ---
 ## English
